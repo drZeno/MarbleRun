@@ -7506,3 +7506,17 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.27-21.04.00:462][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40706.156250
 [2025.09.27-21.04.01:463][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.27-21.04.01:464][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40706.828125, Update Interval: 346.101868
+[2025.09.27-21.10.35:194][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41100.585938
+[2025.09.27-21.10.35:516][785]LogDirectoryWatcher: Display: A directory notification failed for 'C:/GameDev/UEPROJECTS/MarbleRun/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.09.27-21.10.35:516][785]LogDirectoryWatcher: Display: A directory notification failed for 'C:/GameDev/UEPROJECTS/MarbleRun/Content/Developers/Omen/Collections/' because it could not be accessed. Aborting watch request...
+[2025.09.27-21.10.36:193][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-21.10.36:193][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41101.253906, Update Interval: 353.766907
+[2025.09.27-21.10.46:429][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.27-21.17.20:945][316]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41505.859375
+[2025.09.27-21.17.21:943][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-21.17.21:944][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41506.523438, Update Interval: 318.446594
+[2025.09.27-21.23.28:511][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41873.046875
+[2025.09.27-21.23.29:510][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.27-21.23.29:510][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41873.710938, Update Interval: 316.467163
+[2025.09.27-21.24.23:960][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.27-21.24.24:274][650]LogPSOHitching: Encountered 3050 PSO creation hitches so far (1539 graphics, 1511 compute). 0 of them were precached.
