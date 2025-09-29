@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/M_LaserWall.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/StarterContent/Maps/Minimal_Default.umap",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Level1test.umap",
@@ -18,7 +19,14 @@
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/StarterContent/Materials/M_Metal_Copper.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/BP_NovaCoil.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Blueprints/BP_NovaCoil.uasset",
-				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Path_04AD3A61.uasset"
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Path_04AD3A61.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/M_GlowingTOP.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Box_01C13518.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/Box_01C13518.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/Box_D4FAF907.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Box_D4FAF907.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/SM_Longwall.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/SM_Shortwall.uasset"
 			]
 		}
 	]
