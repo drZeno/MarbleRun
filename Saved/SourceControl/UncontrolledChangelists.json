@@ -10,7 +10,6 @@
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/StarterContent/Maps/Minimal_Default.umap",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Level1test.umap",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/FloorPivot.uasset",
-				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/FloorPivot.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/BoxFloor.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/SM_Floor2.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/BoxRezak.uasset",
@@ -22,11 +21,15 @@
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Path_04AD3A61.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/M_GlowingTOP.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Box_01C13518.uasset",
-				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/Box_01C13518.uasset",
-				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/Box_D4FAF907.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/_GENERATED/Omen/Box_D4FAF907.uasset",
 				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/SM_Longwall.uasset",
-				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/SM_Shortwall.uasset"
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/SM_Shortwall.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/CameraActor.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/CameraPawn.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/GameModeBall.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/FloorPivot.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/Box_01C13518.uasset",
+				"C:/GameDev/UEPROJECTS/MarbleRun/Content/Models/Box_D4FAF907.uasset"
 			]
 		}
 	]
